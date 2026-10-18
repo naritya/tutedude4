@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+     box-sizing: border-box;
+}
+
+
+img{
+  width: 100%;
+  height: 90%;
+  /* margin: 0px; */
+  margin-bottom: -1vh;
+ 
+}
+#imgbtn{
+    width: 100%;
+    height: 10%;
+     background: linear-gradient(to right, #ffbd16, #39cf42);
+     
+ 
+   /* margin: 0; */
+  
+}
+.imagecontainer{
+    padding: 10% 25% 10% 25%;
+    height: 100%;
+  
+}
+
+
+
+
+
+body{
+ 
+    height: 100vh;
+    
+}
